@@ -17,7 +17,7 @@ or referenced in generated messages.
 <br>
 
 <h1>Requirements</h1>
-<p>Python 3.9+</p>
+<p>Python 3.8+ (Original server ran on Windows 7 Home Professional SP1</p>
 <p>discord.py version 2.3.2 or greater</p>
 <p>markovify version 0.9.4 or greater</p>
 
