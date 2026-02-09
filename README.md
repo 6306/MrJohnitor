@@ -175,3 +175,17 @@ You are free to:
 Under the condition that any distributed modifications are also licensed
 under the GPL.
 </p>
+
+<h1>WARNING</h1>
+
+<p>
+<b>This bot might go against Discord's Terms of Service</b>.
+</p>
+
+<p>
+In Discord's Terms of Service, they state that bots are not allowed to train models off of users's messages and this bot basically does that, but does a horrible job at it.
+There is other Markov bots that does this so I highly doubt that you or your bot will get banned, but the chances of it happening is never 0% on everything.
+Please keep this in mind and if you or your bot do get banned off of Discord, I will not be able to provide support for that as that is way out of reach for me.
+You'll need to take that up to Discord's Support Team (if they listen to you).
+</p>
+
