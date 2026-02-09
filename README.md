@@ -140,7 +140,7 @@ at random intervals.
 
 <ul>
   <li><code>messages.txt</code> – Raw collected messages</li>
-  <li><code>model.json</code> – Serialized Markov model</li>
+  <li><code>model.json</code> – Serialized Markov model</li> <p>Note: You will need to delete this file or have it overwritten upon launch as there is a bug with the code that fails to open the file if it already exists.</p>
   <li><code>banned_users.json</code> – List of banned users as Discord mentions</li>
 </ul>
 
